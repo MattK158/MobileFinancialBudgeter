@@ -1,1 +1,1 @@
-# PayView
+Utilized the android development environment to make a mobile application for planning bills, calculating services, and further financial planning functionalities. This application was made in Java and used CSS to better the user interface.
